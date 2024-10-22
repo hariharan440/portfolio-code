@@ -6,7 +6,7 @@ const Contact = () => {
       
 
       <div className='text-center'>
-        <h2 className='text=4xl font-bold leading-tight primary-color'>Contact Me</h2>
+        <h2 className='text-4xl font-bold leading-tight primary-color'>Contact Me</h2>
       </div>
 
       <div class="max-w=[800px] mx-auto">
