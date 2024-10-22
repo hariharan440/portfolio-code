@@ -1,3 +1,4 @@
+//Skills
 import React from 'react'
 import html from '../assets/html.png'
 import css from '../assets/css.png'

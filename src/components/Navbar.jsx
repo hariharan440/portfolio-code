@@ -9,10 +9,8 @@ const Navbar = () => {
     };
 
     const scrollToSection = (sectionId) => {
-        // Close the navbar
         setNav(false);
 
-        // Scroll to the target section
         const section = document.getElementById(sectionId);
         if (section) {
             section.scrollIntoView({ behavior: 'smooth' });

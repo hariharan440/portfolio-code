@@ -1,3 +1,4 @@
+//Hero
 import React from 'react';
 import heroimage from '../assets/profilepic7.png';
 import { TypeAnimation } from 'react-type-animation';

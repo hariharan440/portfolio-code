@@ -1,3 +1,4 @@
+//ProjectDetails
 import React, { useState } from 'react';
 import { useParams } from 'react-router-dom';
 import nex1 from "../assets/nexgen.png"; 
